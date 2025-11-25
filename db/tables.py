@@ -29,8 +29,4 @@ def creating_tables(conn):
     conn.commit()
     cursor.close()
     conn.close()
-
-
-
-
-
+print(1000)
